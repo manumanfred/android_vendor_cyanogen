@@ -1,0 +1,5 @@
+add_lunch_combo cyanogen_generic-eng
+add_lunch_combo cyanogen_jet-eng
+add_lunch_combo cyanogen_spica-eng
+add_lunch_combo cyanogen_tiny6410-eng
+
